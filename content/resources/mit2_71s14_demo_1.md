@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding lab dem
 file: /courses/2-71-optics-spring-2014/7f2e61427c85b2f483097eb056e8013f_MIT2_71S14_Demo_1.pdf
 file_size: 302933
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

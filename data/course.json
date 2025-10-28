@@ -37,7 +37,6 @@
     "website": "2-71-optics-spring-2014"
   },
   "course_title": "Optics",
-  "hide_download": true,
   "course_description": "This course provides an introduction to optical science with elementary engineering applications. Topics covered in geometrical optics include: ray-tracing, aberrations, lens design, apertures and stops, radiometry and photometry. Topics covered in wave optics include: basic electrodynamics, polarization, interference, wave-guiding, Fresnel and Fraunhofer diffraction, image formation, resolution, space-bandwidth product. Analytical and numerical tools used in optical design are emphasized. Graduate students are required to complete assignments with stronger analytical content, and an advanced design project.\n",
   "department_numbers": [
     "2"
@@ -48,7 +47,6 @@
     "content": "13a28655-29d7-7c84-81fc-ec390e46ebcf",
     "website": "2-71-optics-spring-2014"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

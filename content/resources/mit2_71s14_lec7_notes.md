@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding optics 
 file: /courses/2-71-optics-spring-2014/3a0560c6aa37dc11eae36f3f69a4ed7b_MIT2_71S14_lec7_notes.pdf
 file_size: 1346999
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

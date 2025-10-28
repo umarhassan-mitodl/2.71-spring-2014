@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding optics 
 file: /courses/2-71-optics-spring-2014/83752efebf664e7a9e7588a44a5da111_MIT2_71S14_f04_quiz2_Set_2.pdf
 file_size: 699878
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

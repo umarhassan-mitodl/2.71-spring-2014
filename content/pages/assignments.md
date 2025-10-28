@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the problem sets for the course, solutions to selected
   problem sets, and information on grading and collaboration.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding reciata
 file: /courses/2-71-optics-spring-2014/2bede8d3bf7826a4f27cbdc2e93f97ee_MIT2_71S14_Rec2.pdf
 file_size: 198918
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
